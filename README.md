@@ -51,10 +51,6 @@ Installation & Setup
 
 1. Clone or download the repository.
 
-git clone https://github.com/yourusername/color-sequence-game.git
-cd color-sequence-game
-
-
 2. Open the game file (e.g., game.py or index.html for web-based versions).
 
 
